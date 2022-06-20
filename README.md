@@ -9,7 +9,7 @@ conda activate /home/ngounse/a~
 #
 # To activate this environment, use
 #
-#     $ conda activate name_of_my_env
+#     $ conda activate myevnv
 #
 # To deactivate an active environment, use
 #
